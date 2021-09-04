@@ -19,10 +19,16 @@
   padding: 20px;
 }
 
+.header nav ul li :hover {
+  background-color: white;
+  color: black;
+}
+
 .header nav ul li a {
   color: white;
   font-size: 20px;
   text-decoration: none;
+  padding: 10px;
 }
 
 .banner {
