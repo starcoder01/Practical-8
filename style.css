@@ -106,7 +106,8 @@ h1 {
 }
 
 .container {
-  display: inline-flex;
+  display: flex;
+  justify-content: center;
 }
 
 .box {
